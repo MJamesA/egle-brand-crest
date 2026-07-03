@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 340" width="340" height="340">
+  <!-- top ribbon -->
+  <polygon points="96,60 244,60 254,86 86,86" fill="#8b7a55"/>
+  <polygon points="86,86 104,86 96,96" fill="#6e5f42"/>
+  <polygon points="254,86 236,86 244,96" fill="#6e5f42"/>
+  <text x="122" y="80" font-family="Montserrat, Arial, sans-serif" font-weight="700" font-size="21" letter-spacing="8" fill="#2d2c28">EGLE</text>
+  <!-- side wings (left) -->
+  <polygon points="112,178 60,183 60,187 112,183" fill="#8b7a55"/>
+  <polygon points="112,190 48,194 48,199 112,195" fill="#8b7a55"/>
+  <polygon points="112,202 76,206 76,210 112,206" fill="#8b7a55"/>
+  <!-- side wings (right) -->
+  <polygon points="228,178 280,183 280,187 228,183" fill="#8b7a55"/>
+  <polygon points="228,190 292,194 292,199 228,195" fill="#8b7a55"/>
+  <polygon points="228,202 264,206 264,210 228,206" fill="#8b7a55"/>
+  <!-- badge medallion -->
+  <circle cx="170" cy="190" r="60" fill="#8b7a55"/>
+  <circle cx="170" cy="190" r="54" fill="#2d2c28"/>
+  <circle cx="170" cy="190" r="49" fill="#8b7a55"/>
+  <circle cx="170" cy="190" r="43" fill="#f2f0ea"/>
+  <!-- eagle -->
+  <polygon points="170,178 138,166 156,182 138,186 160,192" fill="#2d2c28"/>
+  <polygon points="170,178 202,166 184,182 202,186 180,192" fill="#2d2c28"/>
+  <polygon points="170,168 164,180 176,180" fill="#2d2c28"/>
+  <polygon points="166,190 174,190 170,214" fill="#2d2c28"/>
+  <!-- bottom ribbon -->
+  <polygon points="86,262 254,262 244,288 96,288" fill="#8b7a55"/>
+  <polygon points="86,262 104,262 96,252" fill="#6e5f42"/>
+  <polygon points="254,262 236,262 244,252" fill="#6e5f42"/>
+  <text x="108" y="282" font-family="Montserrat, Arial, sans-serif" font-weight="700" font-size="16" letter-spacing="6" fill="#2d2c28">MOTORS</text>
+</svg>
